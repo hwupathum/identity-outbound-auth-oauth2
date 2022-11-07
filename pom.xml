@@ -213,7 +213,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <oltu.version>1.0.0.wso2v3</oltu.version>
-        <carbon.identity.framework.version>6.0.0</carbon.identity.framework.version>
+        <carbon.identity.framework.version>6.0.0-SNAPSHOT</carbon.identity.framework.version>
         <apache.felix.scr.ds.annotations.version>1.2.4</apache.felix.scr.ds.annotations.version>
         <maven.scr.plugin.version>1.24.0</maven.scr.plugin.version>
         <maven.buildnumber.plugin.version>1.4</maven.buildnumber.plugin.version>
